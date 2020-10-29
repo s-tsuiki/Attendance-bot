@@ -1,6 +1,6 @@
 # Attendance-bot
 出席登録用のボット  
-hubotを用いて作成
+hubotを用いて作成  
 yoを使って雛形を作成し、実装  
 Slackで用いる
 
